@@ -10,4 +10,4 @@ click$.pipe(
 
 // Se diferencia del mergeMap ya que este puede manejar 
 // varias llamadas a la vez, 
-// y switchMap solo toma la actual
+// y switchMap solo toma la actual 
